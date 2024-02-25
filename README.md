@@ -1,6 +1,6 @@
 # Apprentice's Chest
 
-This code is intended to implement a chest in the game, which can be opened by players with the specified minimum level. The chest provides unique rewards and can only be opened once per account.
+This code is intended to implement a chest in the game, which can be opened by players with the specified minimum level. The chest provides unique rewards and can only be opened once per player.
 
 ## How It Works
 
