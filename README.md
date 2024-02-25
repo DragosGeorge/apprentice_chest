@@ -4,7 +4,7 @@ This code is intended to implement a chest in the game, which can be opened by p
 
 ## How It Works
 
-The chest is accessible through an in-game event, which checks the player's level and whether their inventory has enough available space. If the conditions are met, the chest is opened, and the player receives the rewards. After opening the chest, it becomes unavailable for the same account.
+The chest is accessible through an in-game event, which checks the player's level and whether their inventory has enough available space. If the conditions are met, the chest is opened, and the player receives the rewards. After opening the chest, it becomes unavailable for the same player.
 
 ## How to Use
 
